@@ -1,9 +1,42 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# Kotlin
+.kotlin/
+kotlin-js-store/
+
+# IDE and Editor
+.idea/
 *.iml
-.gradle
+*.ipr
+*.iws
+.vscode/
+.navigation/
+
+# Android Studio
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# OS specific
 .DS_Store
-/build
-/captures
-.externalNativeBuild
+Thumbs.db
+
+# Project specific
+AGENTS.md
+captures/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.swp
+*~

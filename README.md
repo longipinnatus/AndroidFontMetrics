@@ -1,7 +1,7 @@
 # Android FontMetrics
 An Android app for measuring and testing FontMetrics
 
-![App preview](/Xi2UG.png?raw=true)
+![App preview](/Xi2UG.jpg?raw=true)
 
 This app was originally created and used for these Stack Overflow questions:
 

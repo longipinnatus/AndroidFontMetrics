@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D0BCFF</color>
+    <color name="colorPrimaryDark">#381E72</color>
+    <color name="colorAccent">#EFB8C8</color>
+
+    <!-- Font Metrics (Adjusted for Dark Mode) -->
+    <color name="ascent">#00E676</color>
+    <color name="top">#FF5252</color>
+    <color name="baseline">#FF80AB</color>
+    <color name="descent">#448AFF</color>
+    <color name="bottom">#B388FF</color>
+    <color name="measured_width">#E040FB</color>
+    <color name="text_bounds">#FFAB40</color>
+</resources>

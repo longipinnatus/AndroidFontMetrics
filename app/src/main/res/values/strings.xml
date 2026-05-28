@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FontMetrics</string>
+    <string name="bounds_format">w = %1$d     h = %2$d</string>
 </resources>
